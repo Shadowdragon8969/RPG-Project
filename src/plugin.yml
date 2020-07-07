@@ -1,0 +1,7 @@
+name: SwordCraftOnline
+api-version: 1.13
+version: 1.0
+main: shadowdev.server.ServerManager
+author: ShadowDev
+description: A SAO plugin for minecraft
+depend: [HolographicDisplays]
